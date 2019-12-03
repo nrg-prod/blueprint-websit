@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.hubbis.com	TRUE	/	FALSE	1999999999	__cfduid	d3e5467675dc23283ba6d329fc9a397db1528719068
+

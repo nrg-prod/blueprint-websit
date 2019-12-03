@@ -1,0 +1,182 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 11 Jun 2018 17:38:55 at http://bpplanning.com.my +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.1) Gecko/20020826" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://bpplanning.com.my -O1 "C:\My Web Sites\blueprintNew" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:39:01	Error: 	"Method Not Allowed" (405) at link bpplanning.com.my/xmlrpc.php (from bpplanning.com.my/)
+17:39:36	Error: 	"Not Found" (404) at link bpplanning.com.my/about/meet-the-team/raju-k-ramasamy/ (from bpplanning.com.my/)
+17:39:49	Error: 	"Not Found" (404) at link bpplanning.com.my/wp-content/themes/blueprintplanning/owl.video.play.png (from bpplanning.com.my/wp-content/themes/blueprintplanning/style.css?ver=3.5.2)
+17:39:49	Error: 	"Not Found" (404) at link bpplanning.com.my/wp-content/themes/social_icons/facebook_16.png (from bpplanning.com.my/wp-content/themes/blueprintplanning/style.css?ver=3.5.2)
+17:39:50	Error: 	"Not Found" (404) at link bpplanning.com.my/wp-content/themes/social_icons/digg_16.png (from bpplanning.com.my/wp-content/themes/blueprintplanning/style.css?ver=3.5.2)
+17:39:52	Error: 	"Not Found" (404) at link bpplanning.com.my/wp-content/themes/social_icons/twitter_16.png (from bpplanning.com.my/wp-content/themes/blueprintplanning/style.css?ver=3.5.2)
+17:39:52	Error: 	"Not Found" (404) at link bpplanning.com.my/wp-content/themes/social_icons/delicious_16.png (from bpplanning.com.my/wp-content/themes/blueprintplanning/style.css?ver=3.5.2)
+17:39:52	Error: 	"Not Found" (404) at link bpplanning.com.my/wp-content/themes/social_icons/reddit_16.png (from bpplanning.com.my/wp-content/themes/blueprintplanning/style.css?ver=3.5.2)
+17:39:53	Error: 	"Not Found" (404) at link bpplanning.com.my/wp-content/themes/social_icons/google_plus_16.png (from bpplanning.com.my/wp-content/themes/blueprintplanning/style.css?ver=3.5.2)
+17:39:54	Error: 	"Not Found" (404) at link bpplanning.com.my/wp-content/themes/blueprintplanning/images/bullets-black.png (from bpplanning.com.my/wp-content/themes/blueprintplanning/css/wpex-visual-composer-extend.css?ver=3.5.2)
+17:39:57	Warning: 	Moved Permanently for bpplanning.com.my/?p=9
+17:39:57	Warning: 	File has moved from bpplanning.com.my/?p=9 to http://bpplanning.com.my/about/
+17:39:57	Warning: 	Retry after error -5 (Unable to get server's address: The requested name is valid, but no data of the ) at link bpplanning.uatstaging.com/wp-content/uploads/2016/01/transparent.png (from bpplanning.com.my/about/)
+17:39:59	Warning: 	Moved Permanently for bpplanning.com.my/?p=156
+17:39:59	Warning: 	File has moved from bpplanning.com.my/?p=156 to http://bpplanning.com.my/about/meet-the-team/
+17:40:00	Warning: 	Moved Permanently for bpplanning.com.my/?p=118
+17:40:00	Warning: 	File has moved from bpplanning.com.my/?p=118 to http://bpplanning.com.my/about/philosophy/
+17:40:02	Warning: 	Moved Permanently for bpplanning.com.my/?p=134
+17:40:02	Warning: 	File has moved from bpplanning.com.my/?p=134 to http://bpplanning.com.my/about/our-clients/
+17:40:07	Warning: 	Moved Permanently for bpplanning.com.my/?p=274
+17:40:07	Warning: 	File has moved from bpplanning.com.my/?p=274 to http://bpplanning.com.my/about/our-providers/
+17:40:08	Warning: 	Moved Permanently for bpplanning.com.my/?p=11
+17:40:08	Warning: 	File has moved from bpplanning.com.my/?p=11 to http://bpplanning.com.my/services/
+17:40:10	Warning: 	Moved Permanently for bpplanning.com.my/?p=353
+17:40:10	Warning: 	File has moved from bpplanning.com.my/?p=353 to http://bpplanning.com.my/services/financial-planning/
+17:40:11	Warning: 	Moved Permanently for bpplanning.com.my/?p=362
+17:40:11	Warning: 	File has moved from bpplanning.com.my/?p=362 to http://bpplanning.com.my/services/product-advisory/
+17:40:12	Warning: 	Moved Permanently for bpplanning.com.my/?p=210
+17:40:12	Warning: 	File has moved from bpplanning.com.my/?p=210 to http://bpplanning.com.my/services/cashflow-management/
+17:40:13	Warning: 	Moved Permanently for bpplanning.com.my/?p=226
+17:40:13	Warning: 	File has moved from bpplanning.com.my/?p=226 to http://bpplanning.com.my/services/retirement-planning/
+17:40:14	Warning: 	Moved Permanently for bpplanning.com.my/?p=219
+17:40:14	Warning: 	File has moved from bpplanning.com.my/?p=219 to http://bpplanning.com.my/services/investment-planning/
+17:40:16	Warning: 	Moved Permanently for bpplanning.com.my/?p=233
+17:40:16	Warning: 	File has moved from bpplanning.com.my/?p=233 to http://bpplanning.com.my/services/estate-planning/
+17:40:17	Warning: 	Moved Permanently for bpplanning.com.my/?p=239
+17:40:17	Warning: 	File has moved from bpplanning.com.my/?p=239 to http://bpplanning.com.my/services/wealth-protection/
+17:40:18	Warning: 	Moved Permanently for bpplanning.com.my/?p=244
+17:40:18	Warning: 	File has moved from bpplanning.com.my/?p=244 to http://bpplanning.com.my/services/small-business-solutions/
+17:40:19	Warning: 	Moved Permanently for bpplanning.com.my/?p=248
+17:40:19	Warning: 	File has moved from bpplanning.com.my/?p=248 to http://bpplanning.com.my/services/islamic-financial-planning/
+17:40:20	Warning: 	Moved Permanently for bpplanning.com.my/?p=252
+17:40:20	Warning: 	File has moved from bpplanning.com.my/?p=252 to http://bpplanning.com.my/services/international-wealth-management/
+17:40:22	Warning: 	Moved Permanently for bpplanning.com.my/?p=582
+17:40:22	Warning: 	File has moved from bpplanning.com.my/?p=582 to http://bpplanning.com.my/services/family-office/
+17:40:23	Warning: 	Moved Permanently for bpplanning.com.my/?p=13
+17:40:23	Warning: 	File has moved from bpplanning.com.my/?p=13 to http://bpplanning.com.my/working-together/
+17:40:25	Warning: 	Moved Permanently for bpplanning.com.my/?p=166
+17:40:25	Warning: 	File has moved from bpplanning.com.my/?p=166 to http://bpplanning.com.my/working-together/advice-process/
+17:40:25	Warning: 	Moved Permanently for bpplanning.com.my/?p=168
+17:40:25	Warning: 	File has moved from bpplanning.com.my/?p=168 to http://bpplanning.com.my/working-together/ongoing-service/
+17:40:27	Warning: 	Moved Permanently for bpplanning.com.my/?p=15
+17:40:27	Warning: 	File has moved from bpplanning.com.my/?p=15 to http://bpplanning.com.my/testimonials/
+17:40:28	Warning: 	Moved Permanently for bpplanning.com.my/?p=318
+17:40:28	Warning: 	File has moved from bpplanning.com.my/?p=318 to http://bpplanning.com.my/resources/articles-and-videos/
+17:40:32	Error: 	"Not Found" (404) at link bpplanning.com.my/wp-content/uploads/2017/05/Kelly-article-Why-Invest-Bursa-Mkt-Place.pdf (from bpplanning.com.my/resources/articles-and-videos/)
+17:40:33	Error: 	"Not Found" (404) at link bpplanning.com.my/wp-content/uploads/2017/05/30DaysToFinancialFitness-Morningstar.pdf (from bpplanning.com.my/resources/articles-and-videos/)
+17:40:35	Warning: 	Moved Permanently for bpplanning.com.my/?p=684
+17:40:35	Warning: 	File has moved from bpplanning.com.my/?p=684 to http://bpplanning.com.my/resources/gallery/
+17:40:35	Warning: 	Moved Permanently for bpplanning.com.my/?p=304
+17:40:35	Warning: 	File has moved from bpplanning.com.my/?p=304 to http://bpplanning.com.my/resources/calculators/
+17:40:36	Warning: 	Moved Permanently for bpplanning.com.my/?p=306
+17:40:36	Warning: 	File has moved from bpplanning.com.my/?p=306 to http://bpplanning.com.my/resources/download-forms/
+17:40:37	Warning: 	Moved Permanently for bpplanning.com.my/?p=308
+17:40:37	Warning: 	File has moved from bpplanning.com.my/?p=308 to http://bpplanning.com.my/resources/useful-links/
+17:40:37	Warning: 	Moved Permanently for bpplanning.com.my/?p=146
+17:40:37	Warning: 	File has moved from bpplanning.com.my/?p=146 to http://bpplanning.com.my/life-financial-planner/
+17:40:38	Warning: 	Moved Permanently for bpplanning.com.my/?p=590
+17:40:38	Warning: 	File has moved from bpplanning.com.my/?p=590 to http://bpplanning.com.my/life-financial-planner/why-work-with-us/
+17:40:39	Error: 	"Not Found" (404) at link bpplanning.com.my/blueprintplanning.com.my/about/meet-the-team/ (from bpplanning.com.my/life-financial-planner/why-work-with-us/)
+17:40:39	Warning: 	Moved Permanently for bpplanning.com.my/?p=597
+17:40:39	Warning: 	File has moved from bpplanning.com.my/?p=597 to http://bpplanning.com.my/life-financial-planner/vacancies/
+17:40:41	Warning: 	Moved Permanently for bpplanning.com.my/?p=883
+17:40:41	Warning: 	File has moved from bpplanning.com.my/?p=883 to http://bpplanning.com.my/life-financial-planner/professional-opportunities/
+17:40:42	Warning: 	Moved Permanently for bpplanning.com.my/?p=887
+17:40:42	Warning: 	File has moved from bpplanning.com.my/?p=887 to http://bpplanning.com.my/strategic-professional-alliance/
+17:40:43	Warning: 	Moved Permanently for bpplanning.com.my/?p=603
+17:40:43	Warning: 	File has moved from bpplanning.com.my/?p=603 to http://bpplanning.com.my/life-financial-planner/internships/
+17:41:11	Warning: 	Moved Permanently for bpplanning.com.my/?p=19
+17:41:11	Warning: 	File has moved from bpplanning.com.my/?p=19 to http://bpplanning.com.my/contact/
+17:41:12	Warning: 	Moved Permanently for bpplanning.com.my/?p=389
+17:41:12	Warning: 	File has moved from bpplanning.com.my/?p=389 to http://bpplanning.com.my/about/meet-the-team/vp-thanga/
+17:41:13	Warning: 	Moved Permanently for bpplanning.com.my/?p=384
+17:41:13	Warning: 	File has moved from bpplanning.com.my/?p=384 to http://bpplanning.com.my/about/meet-the-team/kelly-wong-li-yuin/
+17:41:13	Warning: 	Moved Permanently for bpplanning.com.my/?p=470
+17:41:13	Warning: 	File has moved from bpplanning.com.my/?p=470 to http://bpplanning.com.my/about/meet-the-team/normaria-omar/
+17:41:14	Warning: 	Moved Permanently for bpplanning.com.my/?p=1361
+17:41:14	Warning: 	File has moved from bpplanning.com.my/?p=1361 to http://bpplanning.com.my/azizi-ali/
+17:41:14	Warning: 	Moved Permanently for bpplanning.com.my/?p=433
+17:41:14	Warning: 	File has moved from bpplanning.com.my/?p=433 to http://bpplanning.com.my/about/meet-the-team/alex-ng-wern-ping/
+17:41:14	Warning: 	Moved Permanently for bpplanning.com.my/?p=441
+17:41:14	Warning: 	File has moved from bpplanning.com.my/?p=441 to http://bpplanning.com.my/about/meet-the-team/shanmugam-subramanian/
+17:41:14	Warning: 	Moved Permanently for bpplanning.com.my/?p=429
+17:41:14	Warning: 	File has moved from bpplanning.com.my/?p=429 to http://bpplanning.com.my/about/meet-the-team/gunaseelan-kannan/
+17:41:15	Warning: 	Moved Permanently for bpplanning.com.my/?p=437
+17:41:15	Warning: 	File has moved from bpplanning.com.my/?p=437 to http://bpplanning.com.my/about/meet-the-team/gor-sheau-shuenn/
+17:41:16	Warning: 	Moved Permanently for bpplanning.com.my/?p=1269
+17:41:16	Warning: 	File has moved from bpplanning.com.my/?p=1269 to http://bpplanning.com.my/about/meet-the-team/yeong-yeng-yee/
+17:41:17	Warning: 	Moved Permanently for bpplanning.com.my/?p=401
+17:41:17	Warning: 	File has moved from bpplanning.com.my/?p=401 to http://bpplanning.com.my/about/meet-the-team/ravindran-nair-vasudevan-nair/
+17:41:17	Warning: 	Moved Permanently for bpplanning.com.my/?p=908
+17:41:17	Warning: 	File has moved from bpplanning.com.my/?p=908 to http://bpplanning.com.my/professional-business-opportunity-preview-financial-planning-advisory/
+17:41:19	Warning: 	Moved Permanently for bpplanning.com.my/?p=1165
+17:41:19	Warning: 	File has moved from bpplanning.com.my/?p=1165 to http://bpplanning.com.my/career-helping-people-achieve-financial-freedom/
+17:41:19	Warning: 	Moved Permanently for bpplanning.com.my/?p=1420
+17:41:19	Warning: 	File has moved from bpplanning.com.my/?p=1420 to http://bpplanning.com.my/new-heir-managing-inheritance-shuenn-gor/
+17:41:21	Warning: 	Moved Permanently for bpplanning.com.my/?p=1417
+17:41:21	Warning: 	File has moved from bpplanning.com.my/?p=1417 to http://bpplanning.com.my/strategising-investment-based-income-bracket-risk-profile-shuenn-gor/
+17:41:22	Warning: 	Moved Permanently for bpplanning.com.my/?p=1414
+17:41:22	Warning: 	File has moved from bpplanning.com.my/?p=1414 to http://bpplanning.com.my/debt-free-vs-retirement-savings-priorities-shuenn-gor/
+17:41:22	Warning: 	Moved Permanently for bpplanning.com.my/?p=1374
+17:41:22	Warning: 	File has moved from bpplanning.com.my/?p=1374 to http://bpplanning.com.my/retirement-kelly-wong/
+17:41:23	Warning: 	Moved Permanently for bpplanning.com.my/?p=1371
+17:41:23	Warning: 	File has moved from bpplanning.com.my/?p=1371 to http://bpplanning.com.my/making-child-future-millionaire-peter-jose/
+17:41:24	Warning: 	Moved Permanently for bpplanning.com.my/?p=328
+17:41:24	Warning: 	File has moved from bpplanning.com.my/?p=328 to http://bpplanning.com.my/disclaimer/
+17:41:24	Warning: 	Moved Permanently for bpplanning.com.my/?p=330
+17:41:24	Warning: 	File has moved from bpplanning.com.my/?p=330 to http://bpplanning.com.my/terms-conditions/
+17:41:24	Warning: 	Moved Permanently for bpplanning.com.my/?p=331
+17:41:24	Warning: 	File has moved from bpplanning.com.my/?p=331 to http://bpplanning.com.my/privacy-policy/
+17:41:25	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link bpplanning.uatstaging.com/wp-content/uploads/2016/01/transparent.png (from bpplanning.com.my/about/)
+17:41:25	Warning: 	Moved Permanently for bpplanning.com.my/?p=937
+17:41:25	Warning: 	File has moved from bpplanning.com.my/?p=937 to http://bpplanning.com.my/about/meet-the-team/navitha/
+17:41:25	Warning: 	Moved Permanently for bpplanning.com.my/?p=461
+17:41:25	Warning: 	File has moved from bpplanning.com.my/?p=461 to http://bpplanning.com.my/about/meet-the-team/jathy-teow-bih-jiun/
+17:41:25	Warning: 	Moved Permanently for bpplanning.com.my/?p=476
+17:41:25	Warning: 	File has moved from bpplanning.com.my/?p=476 to http://bpplanning.com.my/about/meet-the-team/nurul-akmalina-bt-abu-samah/
+17:41:32	Warning: 	Moved Permanently for bpplanning.com.my/?p=17
+17:41:32	Warning: 	File has moved from bpplanning.com.my/?p=17 to http://bpplanning.com.my/resources/
+17:41:33	Warning: 	Moved Permanently for bpplanning.com.my/?p=1352
+17:41:33	Warning: 	File has moved from bpplanning.com.my/?p=1352 to http://bpplanning.com.my/father-hero-gunaseelan-al-kannan/
+17:41:35	Warning: 	Moved Permanently for bpplanning.com.my/?p=1117
+17:41:35	Warning: 	File has moved from bpplanning.com.my/?p=1117 to http://bpplanning.com.my/risk-protection-planning-fits-financial-planning/
+17:41:36	Warning: 	Moved Permanently for bpplanning.com.my/?p=529
+17:41:36	Warning: 	File has moved from bpplanning.com.my/?p=529 to http://bpplanning.com.my/retirement-planning-in-your-20s-30s-40s-and-50s/
+17:41:37	Warning: 	Moved Permanently for bpplanning.com.my/?p=625
+17:41:37	Warning: 	File has moved from bpplanning.com.my/?p=625 to http://bpplanning.com.my/malaysian-financial-planner-of-the-year-award-mfpya/
+17:41:38	Warning: 	Moved Permanently for bpplanning.com.my/?p=1396
+17:41:38	Warning: 	File has moved from bpplanning.com.my/?p=1396 to http://bpplanning.com.my/malaysia-financial-planner-year-award-mfpya-2017/
+17:41:43	Warning: 	Moved Permanently for bpplanning.com.my/category/news/page/1/
+17:41:43	Warning: 	File has moved from bpplanning.com.my/category/news/page/1/ to http://bpplanning.com.my/category/news/
+17:41:56	Warning: 	Moved Permanently for bpplanning.com.my/?p=1180
+17:41:56	Warning: 	File has moved from bpplanning.com.my/?p=1180 to http://bpplanning.com.my/management-buyout-mbo-exit-strategy-family-firms/
+17:41:58	Warning: 	Moved Permanently for bpplanning.com.my/?p=1145
+17:41:58	Warning: 	File has moved from bpplanning.com.my/?p=1145 to http://bpplanning.com.my/professional-opportunity-financial-planning/
+17:41:59	Warning: 	Moved Permanently for bpplanning.com.my/?p=1122
+17:41:59	Warning: 	File has moved from bpplanning.com.my/?p=1122 to http://bpplanning.com.my/sc-use-licensed-financial-planner/
+17:42:01	Warning: 	Moved Permanently for bpplanning.com.my/?p=860
+17:42:01	Warning: 	File has moved from bpplanning.com.my/?p=860 to http://bpplanning.com.my/financial-literacy-program/
+17:42:02	Warning: 	Moved Permanently for bpplanning.com.my/?p=825
+17:42:02	Warning: 	File has moved from bpplanning.com.my/?p=825 to http://bpplanning.com.my/investing-challenging-times/
+17:42:02	Error: 	"Not Found" (404) at link https://hubbis.com/profiles/photo/1431060085.jpg (from bpplanning.com.my/the-challenges-of-going-independent-in-malaysia/)
+17:42:04	Warning: 	Moved Permanently for bpplanning.com.my/?p=191
+17:42:04	Warning: 	File has moved from bpplanning.com.my/?p=191 to http://bpplanning.com.my/the-challenges-of-going-independent-in-malaysia/
+17:42:07	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link bpplanning.uatstaging.com/wp-content/uploads/2016/01/transparent.png (from bpplanning.com.my/about/)
+17:42:08	Warning: 	Moved Permanently for bpplanning.com.my/?p=1322
+17:42:08	Warning: 	File has moved from bpplanning.com.my/?p=1322 to http://bpplanning.com.my/client-appreciation-dinner-692017/
+17:42:10	Warning: 	Moved Permanently for bpplanning.com.my/?p=189
+17:42:10	Warning: 	File has moved from bpplanning.com.my/?p=189 to http://bpplanning.com.my/protecting-malaysias-wealth-management-image-2/
+17:42:11	Warning: 	Moved Permanently for bpplanning.com.my/?p=185
+17:42:11	Warning: 	File has moved from bpplanning.com.my/?p=185 to http://bpplanning.com.my/protecting-malaysias-wealth-management-image/
+17:42:13	Warning: 	Moved Permanently for bpplanning.com.my/?p=180
+17:42:13	Warning: 	File has moved from bpplanning.com.my/?p=180 to http://bpplanning.com.my/malaysian-financial-planner-of-the-year-award-mfpya-2015-recognition-ceremony/
+17:42:14	Warning: 	Moved Permanently for bpplanning.com.my/?p=1194
+17:42:14	Warning: 	File has moved from bpplanning.com.my/?p=1194 to http://bpplanning.com.my/business-plenary-meeting-24-25-february-2017-nature-farm-resort-sepang/
+17:42:15	Warning: 	Moved Permanently for bpplanning.com.my/?p=946
+17:42:15	Warning: 	File has moved from bpplanning.com.my/?p=946 to http://bpplanning.com.my/blueprint-half-yearly-review-meeting-genting-view-resort-22nd-24th-july-2016/
+17:42:16	Warning: 	Moved Permanently for bpplanning.com.my/?p=769
+17:42:16	Warning: 	File has moved from bpplanning.com.my/?p=769 to http://bpplanning.com.my/christmas-celebration-2015-bpp-office/
+17:42:17	Warning: 	Moved Permanently for bpplanning.com.my/?p=709
+17:42:17	Warning: 	File has moved from bpplanning.com.my/?p=709 to http://bpplanning.com.my/business-plenary-meeting-2016/
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 22 seconds : 759 links scanned, 664 files written (37632173 bytes overall), 270 files updated [1573805 bytes received at 7791 bytes/sec], 5610355 bytes transferred using HTTP compression in 361 files, ratio 24%, 20.4 requests per connection
+(15 errors, 156 warnings, 0 messages)
